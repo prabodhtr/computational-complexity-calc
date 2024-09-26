@@ -1,4 +1,6 @@
-# ComputerSecurityS8
+# Computational Complexity
 
-The code easily shows the number of bits in root of number N to be atleast half the number of bits in the number itself.
-Please view the ResultingGraph.png for the illustration
+- Shows the number of bits in root of a number `N` to be atleast half the number of bits in the number itself
+- Graphical representation of bit length provided for reference
+
+_**This project is created as part of the computer security course and should be refered for educational purpose alone**_
